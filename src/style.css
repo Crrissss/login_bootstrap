@@ -1,0 +1,14 @@
+#content {
+  position: absolute;
+  left: 200px;
+  justify-content: center;
+  background-color: rgb(231, 238, 235);
+  max-width: 800px; /* Define a largura máxima do contêiner */
+  width: 80%; /* Define uma largura específica como uma porcentagem do tamanho do elemento pai */
+  margin: 0;
+}
+
+span {
+  color: bisque;
+  font-size: medium;
+}
